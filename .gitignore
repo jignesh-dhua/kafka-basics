@@ -27,3 +27,4 @@ target/
 Test/
 .classpath
 .project
+.DS_Store
